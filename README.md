@@ -12,20 +12,31 @@
 
 ## About me
 
-<img align="right" src="./images/side.gif" height="220" alt="side"/>
+<!-- Tableau plutôt qu'un img flottant : un bloc de code ne s'enroule pas
+     autour d'un align="right", le GIF le recouvrait. -->
+<table>
+<tr>
+<td valign="top">
 
 ```python
 git_owner = oskano14()
 
 def oskano14():
     name  = "oskano14"
-    love  = ["🌸 Anime", "🌸 Manga", "🌸 Code", "🌸 Gaming"]
-    build = "Free Anime — API Python + front React, en local, sans pub"
+    love  = ["Anime", "Manga",
+             "Code", "Gaming"]
+    build = "Free Anime"
     return git_owner
 
 print(git_owner)
 ```
-<br clear="both"/>
+
+</td>
+<td valign="top">
+  <img src="./images/side.gif" height="240" alt="side"/>
+</td>
+</tr>
+</table>
 
 
 ## Statistiques
