@@ -30,13 +30,15 @@ print(git_owner)
 
 ## Statistiques
 
+<!-- github-profile-summary-cards + activity-graph : services fiables. L'instance
+     publique de github-readme-stats renvoie souvent 503 (cartes vides). -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oskano14&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=oskano14&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oskano14&theme=github_dark" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oskano14&theme=github_dark" width="49%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oskano14&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oskano14&theme=react-dark&hide_border=true&area=true&color=E23636&line=E23636&point=ffffff" width="100%"/>
+</div>
 
 
 ## Skills
