@@ -12,28 +12,18 @@
 
 ## About me
 
-<!-- Tableau plutôt qu'un img flottant : un bloc de code ne s'enroule pas
-     autour d'un align="right", le GIF le recouvrait. -->
 <table>
 <tr>
 <td valign="top">
 
-```python
-git_owner = oskano14()
-
-def oskano14():
-    name  = "oskano14"
-    love  = ["Anime", "Manga",
-             "Code", "Gaming"]
-    build = "Free Anime"
-    return git_owner
-
-print(git_owner)
-```
+- 🌸 Fan d'anime & de manga
+- 💻 Dev **Python** & **React**
+- 🚀 Je construis **Free Anime** — regarder et lire en local, sans pub
+- 🎮 Gaming à côté
 
 </td>
 <td valign="top">
-  <img src="./images/side.gif" height="240" alt="side"/>
+  <img src="./images/side.gif" height="200" alt="side"/>
 </td>
 </tr>
 </table>
@@ -71,5 +61,5 @@ print(git_owner)
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oskano14&style=flat&color=A855F7" alt="vues du profil"/>
+  <img src="https://komarev.com/ghpvc/?username=oskano14&style=flat&color=E23636" alt="vues du profil"/>
 </div>
